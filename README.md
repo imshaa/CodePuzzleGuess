@@ -30,4 +30,4 @@ This C++ console application provides an engaging platform for users to test the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/imshaa/CodePuzzleGuess/blob/main/mysteryy.cpp
+ https://github.com/imshaa/CodePuzzleGuess/blob/main/mysteryy.cpp
